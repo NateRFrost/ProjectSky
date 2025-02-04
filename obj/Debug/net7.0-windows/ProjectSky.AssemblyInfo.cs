@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectSky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90e6cf489b8a782b7903610bc18c6e0b76cd4f5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b28ef11a5fa4f08101da9085e2f18e8c1532e6b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectSky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectSky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
